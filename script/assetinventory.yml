@@ -1,0 +1,46 @@
+---
+label1:
+  hardware:
+    mac: 
+    interface: 
+    vendor: 
+    model: 
+    release: 
+  software:
+    hostname: 
+    os: 
+    release: 
+    ip: 
+    type: 
+  note: 
+  site: 
+label2:
+  hardware:
+    mac: 
+    interface: 
+    vendor: 
+    model: 
+    release: 
+  software:
+    hostname: 
+    os: 
+    release: 
+    ip: 
+    type: 
+  note:
+  site: 
+label3:
+  hardware: 
+    mac: 
+    interface: 
+    vendor: 
+    model: 
+    release: 
+  software:
+    hostname: 
+    os: 
+    release: 
+    ip: 
+    type: 
+  note:
+  site: 
