@@ -19,3 +19,4 @@ label1:          <-- this is a generic name for the device, maybe the label
     type:        <-- dynamic (dhcp) or static ip address
   note:          <-- free fiels to other information
   site:          <-- location where the device is installed (DC1, DC2, home, ecc...)
+
