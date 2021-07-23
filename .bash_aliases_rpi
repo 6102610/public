@@ -1,0 +1,3 @@
+alias temp='cat /sys/class/thermal/thermal_zone0/temp'
+#alias ll='ls -lash'
+alias ll='ls -lash --color --time-style="+%b %d %Y %H:%M"'
